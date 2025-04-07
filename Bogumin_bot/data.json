@@ -1,0 +1,188 @@
+{
+    "total_records": 9,
+    "total_pages": 1,
+    "current_page": 1,
+    "records_per_page": 9,
+    "results": [
+        {
+            "propertyid": 2,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u0412\u0430\u0432\u0438\u043b\u043e\u0432\u0430 \u0434. 19",
+            "postalcode": 119331,
+            "squaremeters": 70,
+            "monthlyrent": 75000,
+            "dailyrent": 3500,
+            "hasrenovation": false,
+            "metroproximity": 0.4,
+            "buildingfloors": 16,
+            "hasbalcony": true,
+            "hasparking": false,
+            "description": "\u041f\u0440\u043e\u0441\u0442\u043e\u0440\u043d\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u043d\u043e\u0432\u043e\u043c \u0434\u043e\u043c\u0435",
+            "pets": true,
+            "contactinfo": "+74951234567",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\ali-moradi-qNic6LXHw-w-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\ali-moradi-Y4gPuT2FODI-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\alona-gross-48zRK5iuarc-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\alona-gross-B0IODAGH1Kk-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 4,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u0421\u0443\u0449\u0451\u0432\u0441\u043a\u0430\u044f \u0434. 21",
+            "postalcode": 127018,
+            "squaremeters": 65,
+            "monthlyrent": 72000,
+            "dailyrent": 3200,
+            "hasrenovation": false,
+            "metroproximity": 0.5,
+            "buildingfloors": 15,
+            "hasbalcony": false,
+            "hasparking": true,
+            "description": "\u0423\u044e\u0442\u043d\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0440\u044f\u0434\u043e\u043c \u0441 \u043c\u0435\u0442\u0440\u043e",
+            "pets": true,
+            "contactinfo": "+74957654321",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\alona-gross-SgkiUIwPYs8-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\alona-gross-v-e5Vff_hHE-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\alona-gross-y0Zlus5aCYI-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\alona-gross-YZoBIZtr6II-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 10,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u041d\u043e\u0432\u044b\u0439 \u0410\u0440\u0431\u0430\u0442 \u0434. 24",
+            "postalcode": 121099,
+            "squaremeters": 68,
+            "monthlyrent": 78000,
+            "dailyrent": 3500,
+            "hasrenovation": false,
+            "metroproximity": 0.3,
+            "buildingfloors": 22,
+            "hasbalcony": false,
+            "hasparking": true,
+            "description": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0441 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u043d\u044b\u043c\u0438 \u043e\u043a\u043d\u0430\u043c\u0438 \u043d\u0430 \u0410\u0440\u0431\u0430\u0442\u0435",
+            "pets": true,
+            "contactinfo": "+74951234567",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\beazy-WOsNIxMmyCA-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\beazy-x53OUnxwynQ-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\behnam-norouzi-nATj9ajl_D0-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\bilal-mansuri-n5HPevhbjM0-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 12,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0434. 18",
+            "postalcode": 119146,
+            "squaremeters": 72,
+            "monthlyrent": 77000,
+            "dailyrent": 3400,
+            "hasrenovation": true,
+            "metroproximity": 0.6,
+            "buildingfloors": 19,
+            "hasbalcony": true,
+            "hasparking": false,
+            "description": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u043a\u043e\u0439 \u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0431\u0430\u043b\u043a\u043e\u043d\u043e\u043c",
+            "pets": true,
+            "contactinfo": "+74957654321",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\billy-jo-catbagan-HR1x0_5dakE-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\chastity-cortijo-Fb5l4cVrlRw-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\christian-mackie-cc0Gg3BegjE-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\colin-meg--P9x73i0Rkg-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 16,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430 \u0434. 26",
+            "postalcode": 115280,
+            "squaremeters": 73,
+            "monthlyrent": 76000,
+            "dailyrent": 3400,
+            "hasrenovation": true,
+            "metroproximity": 0.7,
+            "buildingfloors": 18,
+            "hasbalcony": true,
+            "hasparking": true,
+            "description": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0434\u0435\u043b\u043e\u0432\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435, \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u0430 \u0434\u043b\u044f \u0436\u0438\u0437\u043d\u0438 \u0438 \u0440\u0430\u0431\u043e\u0442\u044b",
+            "pets": true,
+            "contactinfo": "+74957654321",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\darren-ahmed-arceo-d268aZ9SbXI-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\denys-striyeshyn-Rj1eIzAypmg-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\denys-striyeshyn-wJ7yGwz2-00-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\edvinas-bruzas-UZW4GrEvHMA-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 20,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430 \u0434. 28",
+            "postalcode": 119017,
+            "squaremeters": 80,
+            "monthlyrent": 84000,
+            "dailyrent": 3800,
+            "hasrenovation": true,
+            "metroproximity": 0.1,
+            "buildingfloors": 24,
+            "hasbalcony": false,
+            "hasparking": true,
+            "description": "\u041f\u0440\u043e\u0441\u0442\u043e\u0440\u043d\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0441 \u043a\u0430\u043c\u0438\u043d\u043e\u043c \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435",
+            "pets": true,
+            "contactinfo": "+74957654321",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\goran-ivos-ojQJBjWvqw4-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\helen-shi-88eDXBNpijI-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\jakob-owens-nQBc6clG3X4-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\jason-wang-8J49mtYWu7E-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 22,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u041f\u0440\u0435\u0447\u0438\u0441\u0442\u0435\u043d\u043a\u0430 \u0434. 40",
+            "postalcode": 119034,
+            "squaremeters": 85,
+            "monthlyrent": 89000,
+            "dailyrent": 4200,
+            "hasrenovation": false,
+            "metroproximity": 0.4,
+            "buildingfloors": 25,
+            "hasbalcony": true,
+            "hasparking": false,
+            "description": "\u042d\u043b\u0435\u0433\u0430\u043d\u0442\u043d\u0430\u044f \u0434\u0432\u0443\u0445\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "pets": true,
+            "contactinfo": "+74955004411",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\jason-wang-NxAwryAbtIw-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\jean-philippe-delberghe-4jxGry4pXtc-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\kam-idris-hYb7kbu4x7E-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\kam-idris-nylcMEgK8EQ-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 26,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041f\u0443\u0442\u0438\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0435\u0440. \u0434. 5",
+            "postalcode": 123022,
+            "squaremeters": 77,
+            "monthlyrent": 85000,
+            "dailyrent": 4100,
+            "hasrenovation": true,
+            "metroproximity": 0.45,
+            "buildingfloors": 29,
+            "hasbalcony": false,
+            "hasparking": true,
+            "description": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430-\u0441\u0442\u0443\u0434\u0438\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0441 \u0432\u044b\u0441\u043e\u043a\u0438\u043c\u0438 \u043f\u043e\u0442\u043e\u043b\u043a\u0430\u043c\u0438",
+            "pets": true,
+            "contactinfo": "+74955004422",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\kellen-riggin-gYpDwPnBXIk-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\kelsey-roenau-gxtkdHecsdM-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\kirill-9uH-hM0VwPg-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\le-quan-BStvi8DrGnA-unsplash.jpg"
+            ]
+        },
+        {
+            "propertyid": 30,
+            "typename": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+            "streetaddress": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b. \u041a\u0443\u0437\u043d\u0435\u0446\u043a\u0438\u0439 \u041c\u043e\u0441\u0442 \u0434. 21",
+            "postalcode": 107031,
+            "squaremeters": 70,
+            "monthlyrent": 77000,
+            "dailyrent": 3900,
+            "hasrenovation": false,
+            "metroproximity": 0.3,
+            "buildingfloors": 31,
+            "hasbalcony": false,
+            "hasparking": true,
+            "description": "\u0421\u0442\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0448\u0430\u0433\u043e\u0432\u043e\u0439 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u0438 \u043e\u0442 \u041a\u0440\u0435\u043c\u043b\u044f",
+            "pets": true,
+            "contactinfo": "+74955004433",
+            "images": [
+                "C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\minh-pham-OtXADkUh3-I-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\mk-s-6YFxwg38NLU-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\mk-s-8BRZexBpY48-unsplash.jpg, C:\\Users\\alex\\Desktop\\Generate_DB\\apartaments_photos\\mk-s-RD6QavJg2Ek-unsplash.jpg"
+            ]
+        }
+    ]
+}
